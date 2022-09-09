@@ -37,3 +37,4 @@ const Carolina = {
 ## Contact
 
 - [Linkedin](https://www.linkedin.com/in/carolina-toren/)
+- - [Portfolio](https://www.carolina-toren.com/)
