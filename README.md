@@ -38,3 +38,4 @@ const Carolina = {
 
 - [Linkedin](https://www.linkedin.com/in/carolina-toren/)
  - [Portfolio](https://www.carolina-toren.com/)
+ - [Email](mailto:carolina_toren@gmail.com/)
