@@ -7,7 +7,7 @@
 ```javascript
 const Carolina = {
 	pronouns: 'she' | 'her',
-	age: '31',
+	age: '32',
 	location: `Beer Sheva, Israel`,
 	education: ['Full Stack bootcamp', 'Practical Software Enginnering'],
 	skills: [
